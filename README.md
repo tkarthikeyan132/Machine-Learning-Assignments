@@ -43,7 +43,7 @@ Welcome to the repository containing solutions to machine learning assignments! 
 ## Note
 
 - All the solutions provided in this repository have been implemented from scratch. Feel free to explore the code.
-- This repository is open for reference to everyone except the students currently enrolled in the COL774 course. If you are currently taking COL774, we encourage you to refrain from accessing this repository to maintain the academic integrity of the course.
+- This repository is open for reference to everyone except the students currently enrolled in the COL774-Machine Learning course offered at IITD. If you are currently taking COL774, we encourage you to refrain from accessing this repository to maintain the academic integrity of the course.
 
 ## Special Thanks
 
