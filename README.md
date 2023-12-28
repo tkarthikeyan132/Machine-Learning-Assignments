@@ -43,9 +43,9 @@ Welcome to the repository containing solutions to machine learning assignments! 
 ## Note
 
 - All the solutions provided in this repository have been implemented from scratch. Feel free to explore the code.
-- This repository is open for reference to everyone except the students currently enrolled in the COL774-Machine Learning course offered at IITD. If you are currently taking COL774, we encourage you to refrain from accessing this repository to maintain the academic integrity of the course.
+- This repository is open for reference to everyone except the students currently enrolled in the COL774-Machine Learning course offered at IIT Delhi. If you are currently taking COL774, we encourage you to refrain from accessing this repository to maintain the academic integrity of the course.
 
-## Special Thanks
+## Acknowledgement
 
 A special thanks to [Prof. Parag Singla](https://www.cse.iitd.ac.in/~parags/teaching.html) for offering the machine learning course during the academic year 2023-24 at the Indian Institute of Technology (IIT) Delhi. The content of these assignments is inspired by the course lectures and materials provided during the tenure of this course.
 
